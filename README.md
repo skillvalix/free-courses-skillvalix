@@ -133,7 +133,6 @@ This repository contains **free cheat sheets, quick-reference guides, and study 
 - API security: helmet, rate limiting, CORS, input sanitization with express-validator
 - Deployment: environment variables, `.env` files, deploying to Render / Railway / VPS
 
-**Cheat Sheet:** [`nodejs/nodejs-express-cheatsheet.md`](./nodejs/nodejs-express-cheatsheet.md)
 **Direct Course Access:** 👉 [skillvalix.com/courses/nodejs-express-api-development](https://www.skillvalix.com/courses/nodejs-express-api-development)
 
 ---
