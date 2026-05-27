@@ -43,7 +43,6 @@ This repository contains **free cheat sheets, quick-reference guides, and study 
 - HTML5 APIs: geolocation, local storage, canvas, drag-and-drop basics
 - SEO fundamentals: meta tags, Open Graph, canonical URLs, alt attributes
 
-**Cheat Sheet:** [`html/html5-complete-cheatsheet.md`](./html/html5-complete-cheatsheet.md)
 **Direct Course Access:** 👉 [skillvalix.com/courses/ultimate-html-masterclass](https://www.skillvalix.com/courses/ultimate-html-masterclass)
 
 ---
@@ -62,7 +61,6 @@ This repository contains **free cheat sheets, quick-reference guides, and study 
 - Responsive design: `@media` queries, mobile-first approach, `min-width` / `max-width`
 - CSS specificity, cascade, and inheritance rules explained
 
-**Cheat Sheet:** [`css/css-complete-cheatsheet.md`](./css/css-complete-cheatsheet.md)
 **Direct Course Access:** 👉 [skillvalix.com/courses/css-for-beginners-learn-web-styling-zero-to-pro](https://www.skillvalix.com/courses/css-for-beginners-learn-web-styling-zero-to-pro)
 
 ---
@@ -81,7 +79,6 @@ This repository contains **free cheat sheets, quick-reference guides, and study 
 - Async JavaScript: callbacks, Promises, `async/await`, `fetch()` API
 - ES6+ features: template literals, optional chaining `?.`, nullish coalescing `??`, modules
 
-**Cheat Sheet:** [`javascript/javascript-complete-cheatsheet.md`](./javascript/javascript-complete-cheatsheet.md)
 **Direct Course Access:** 👉 [skillvalix.com/courses/ultimate-javascript-masterclass](https://www.skillvalix.com/courses/ultimate-javascript-masterclass)
 
 ---
@@ -100,7 +97,6 @@ This repository contains **free cheat sheets, quick-reference guides, and study 
 - Component patterns: buttons, cards, navbars, modals built purely with utilities
 - Tailwind v4 new features, JIT mode, and production build optimization
 
-**Cheat Sheet:** [`tailwind/tailwind-css-cheatsheet.md`](./tailwind/tailwind-css-cheatsheet.md)
 **Direct Course Access:** 👉 [skillvalix.com/courses/tailwind-css-mastery-utility-first-framework](https://www.skillvalix.com/courses/tailwind-css-mastery-utility-first-framework)
 
 ---
@@ -119,7 +115,6 @@ This repository contains **free cheat sheets, quick-reference guides, and study 
 - Performance optimization: `React.memo`, lazy loading, `Suspense`, code splitting
 - Testing React components with Jest and React Testing Library
 
-**Cheat Sheet:** [`react/react-complete-cheatsheet.md`](./react/react-complete-cheatsheet.md)
 **Direct Course Access:** 👉 [skillvalix.com/courses/ultimate-react-masterclass](https://www.skillvalix.com/courses/ultimate-react-masterclass)
 
 ---
@@ -157,7 +152,6 @@ This repository contains **free cheat sheets, quick-reference guides, and study 
 - File I/O: `fopen()`, `fclose()`, `fread()`, `fwrite()`, `fprintf()`, `fscanf()`
 - Preprocessor directives: `#define`, `#include`, `#ifdef`, `#pragma`, macros
 
-**Cheat Sheet:** [`c-programming/c-complete-cheatsheet.md`](./c-programming/c-complete-cheatsheet.md)
 **Direct Course Access:** 👉 [skillvalix.com/courses/ultimate-c-programming](https://www.skillvalix.com/courses/ultimate-c-programming)
 
 ---
@@ -176,7 +170,6 @@ This repository contains **free cheat sheets, quick-reference guides, and study 
 - Concurrency: `std::thread`, `std::mutex`, `std::async`, `std::future`
 - C++17/20 features: structured bindings, `std::optional`, `std::variant`, concepts, ranges
 
-**Cheat Sheet:** [`cpp/modern-cpp-cheatsheet.md`](./cpp/modern-cpp-cheatsheet.md)
 **Direct Course Access:** 👉 [skillvalix.com/courses/modern-cpp-mastery](https://www.skillvalix.com/courses/modern-cpp-mastery)
 
 ---
@@ -196,7 +189,6 @@ This repository contains **free cheat sheets, quick-reference guides, and study 
 - JDBC: connecting to databases, `PreparedStatement`, `ResultSet`, transactions
 - Design patterns: Singleton, Factory, Observer, Builder, Strategy
 
-**Cheat Sheet:** [`java/java-complete-cheatsheet.md`](./java/java-complete-cheatsheet.md)
 **Direct Course Access:** 👉 [skillvalix.com/courses/ultimate-java-masterclass](https://www.skillvalix.com/courses/ultimate-java-masterclass)
 
 ---
@@ -216,7 +208,6 @@ This repository contains **free cheat sheets, quick-reference guides, and study 
 - Python standard library: `os`, `sys`, `math`, `random`, `datetime`, `collections`
 - Error handling: `try/except/finally`, raising exceptions, custom exception classes
 
-**Cheat Sheet:** [`python/python-complete-cheatsheet.md`](./python/python-complete-cheatsheet.md)
 **Direct Course Access:** 👉 [skillvalix.com/courses/ultimate-python-masterclass](https://www.skillvalix.com/courses/ultimate-python-masterclass)
 
 ---
@@ -235,7 +226,6 @@ This repository contains **free cheat sheets, quick-reference guides, and study 
 - Plotly: interactive charts, `go.Figure()`, `px.scatter()`, dashboards
 - Power BI & Tableau: importing data, creating dashboards, calculated fields, publishing reports
 
-**Cheat Sheet:** [`data-analytics/data-analytics-cheatsheet.md`](./data-analytics/data-analytics-cheatsheet.md)
 **Direct Course Access:** 👉 [skillvalix.com/courses/data-analytics-visualization-beginners-to-advanced](https://www.skillvalix.com/courses/data-analytics-visualization-beginners-to-advanced)
 
 ---
@@ -254,7 +244,6 @@ This repository contains **free cheat sheets, quick-reference guides, and study 
 - Real-world AI applications: recommendation systems, computer vision, chatbots, self-driving
 - AI ethics: bias, fairness, transparency, explainability, and responsible AI principles
 
-**Cheat Sheet:** [`ai-ml/ai-ml-fundamentals-cheatsheet.md`](./ai-ml/ai-ml-fundamentals-cheatsheet.md)
 **Direct Course Access:** 👉 [skillvalix.com/courses/basics-of-artificial-intelligence-beginners](https://www.skillvalix.com/courses/basics-of-artificial-intelligence-beginners)
 
 ---
@@ -273,47 +262,10 @@ This repository contains **free cheat sheets, quick-reference guides, and study 
 - Ethical hacking concepts: reconnaissance, scanning, exploitation, post-exploitation, reporting
 - Security best practices: patch management, least privilege, security audits, incident response
 
-**Cheat Sheet:** [`cyber-security/cyber-security-cheatsheet.md`](./cyber-security/cyber-security-cheatsheet.md)
 **Direct Course Access:** 👉 [skillvalix.com/courses/cyber-security-basics-introduction](https://www.skillvalix.com/courses/cyber-security-basics-introduction)
 
 ---
 
-## 🗂️ Repository Structure
-
-```
-skillvalix-cheatsheets/
-│
-├── html/
-│   └── html5-complete-cheatsheet.md
-├── css/
-│   └── css-complete-cheatsheet.md
-├── javascript/
-│   └── javascript-complete-cheatsheet.md
-├── tailwind/
-│   └── tailwind-css-cheatsheet.md
-├── react/
-│   └── react-complete-cheatsheet.md
-├── nodejs/
-│   └── nodejs-express-cheatsheet.md
-├── c-programming/
-│   └── c-complete-cheatsheet.md
-├── cpp/
-│   └── modern-cpp-cheatsheet.md
-├── java/
-│   └── java-complete-cheatsheet.md
-├── python/
-│   └── python-complete-cheatsheet.md
-├── data-analytics/
-│   └── data-analytics-cheatsheet.md
-├── ai-ml/
-│   └── ai-ml-fundamentals-cheatsheet.md
-├── cyber-security/
-│   └── cyber-security-cheatsheet.md
-│
-├── assets/
-│   └── TEMPLATE.md          ← Use this template for new cheat sheets
-└── README.md
-```
 
 ---
 
